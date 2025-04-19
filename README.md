@@ -54,3 +54,8 @@ const dev = {
 
 ```
 
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
