@@ -37,4 +37,14 @@ Lorem ipsum dolor sit amet **consectetur** adipisicing elit. *Quisquam consequun
 - [ ] Write docs
 
 
+```js
+
+const name = "Ashraful Haque";
+const dev = {
+    name : name,
+    age : 30, 
+    skill : "IOS"
+}
+
+```
 
