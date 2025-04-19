@@ -55,7 +55,7 @@ const dev = {
 ```
 
 
-| Syntax | Description |
-| ----------- | ----------- |
+| Syntax | Description | Value | Range | 
+| ----------- | ----------- | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
