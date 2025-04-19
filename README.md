@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet **consectetur** adipisicing elit. *Quisquam consequun
 
 ---
 
-```
+```js
 {
     "name"      : "Ashraful Haque",
     "age"       : 30, 
