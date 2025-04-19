@@ -48,3 +48,9 @@ const dev = {
 
 ```
 
+```html
+
+<img src="image/baby.gif" alt="baby">
+
+```
+
