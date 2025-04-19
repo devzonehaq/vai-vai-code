@@ -21,4 +21,10 @@ Lorem ipsum dolor sit amet **consectetur** adipisicing elit. *Quisquam consequun
 ---
 ![baby ](img/baby.gif)
 
+---
+- [x] Add image 
+- [ ] Remove bacnground 
+- [ ] Write docs
+
+
 
